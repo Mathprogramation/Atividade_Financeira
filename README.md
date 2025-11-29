@@ -1,9 +1,7 @@
 # Atividade_Financeira
+Codigo Refaturado:
+<img src="img/codigo_refatorado.png" width="800">
 
-Codigo Refaturada
+Codigo Sem Refaturar:
+<img src="img/codigo_sem_refatorar.png" width="800">
 
-<img width = "864" height = "152" alt = "image" src= "codigo_refaturado.png"/>
-
-Codigo feito sem realizar a refaturação
-
-<img width = "864" height = "152" alt = "image" src= "codigo_sem_refaturar.png"/>
