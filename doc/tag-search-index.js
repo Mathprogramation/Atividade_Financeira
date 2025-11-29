@@ -1,0 +1,1 @@
+tagSearchIndex = [{"l":"Classe de Testes: TesteCalculadora","h":"class Calculadora.TesteCalculadora","d":"Section","u":"Calculadora/TesteCalculadora.html#classe-de-testes-testecalculadora-heading"}];updateSearchResults();
