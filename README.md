@@ -11,6 +11,6 @@
 ## Código sem realizar a refatoração
 
 <div align="center">
-  <img src="images/codigo_sem_refatorar.png" width="850">
+  <img src="images/codigo_sem_refaturar.png" width="850">
 </div>
 
