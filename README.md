@@ -1,12 +1,16 @@
 # Atividade_Financeira
 
-Codigo Refaturada
+## Código Refatorado
 
-<img width = "864" height = "152" alt = "image" src= "images/codigo_refaturado.png"/>
-=======
-Codigo feito sem realizar a refaturação
+<div align="center">
+  <img src="images/codigo_refatorado.png" width="850">
+</div>
 
-<img width = "864" height = "152" alt = "image" src= "resultado sem refaturar.png"/>
->>>>>>> 41e87827864f576eedb56ac4781dbfe8f2311494
-=======
->>>>>>> 0b3defa6922231fd08b416d81715ee53e6423162
+---
+
+## Código sem realizar a refatoração
+
+<div align="center">
+  <img src="images/codigo_sem_refatorar.png" width="850">
+</div>
+
